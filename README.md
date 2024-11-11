@@ -10,4 +10,4 @@
 - [Бриф 1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf);
 
 ## Ссылка на сайт:
-https://ia-stepanov.github.io/how-to-learn/
+[https://alexeytrfnv.github.io/web_project_1/](https://alexeytrfnv.github.io/web_project_1/)
