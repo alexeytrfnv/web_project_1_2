@@ -11,4 +11,4 @@
 - [Бриф 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf);
 
 ## Ссылка на сайт:
-[https://alexeytrfnv.github.io/web_project_1/](https://alexeytrfnv.github.io/web_project_1/)
+https://alexeytrfnv.github.io/web_project_1_2/
